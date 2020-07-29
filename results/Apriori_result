@@ -1,0 +1,6 @@
+0,frozenset({'Google Phone'}),frozenset({'USB-C Charging Cable'})
+4,frozenset({'Vareebadd Phone'}),frozenset({'USB-C Charging Cable'})
+3,frozenset({'iPhone'}),frozenset({'Lightning Charging Cable'})
+2,frozenset({'Lightning Charging Cable'}),frozenset({'iPhone'})
+1,frozenset({'USB-C Charging Cable'}),frozenset({'Google Phone'})
+5,frozenset({'USB-C Charging Cable'}),frozenset({'Vareebadd Phone'})
